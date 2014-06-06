@@ -21,11 +21,5 @@
 		"16": "icons/icon-16.png",
 		"32": "icons/icon-32.png",
 		"64": "icons/icon-64.png"
-	},
-
-	"background": {
-		"scripts": [
-			"pages/script.js"
-		]
 	}
 }
