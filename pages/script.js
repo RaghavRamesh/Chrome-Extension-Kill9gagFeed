@@ -5,6 +5,9 @@ function killNewsFeed() {
 	var sidebar = document.getElementById("sidebar");
 	sidebar.className = "hide";
 
+	var div = document.createElement("div");
+	div.innerHTML = "Y U NO CONCENTRATE ON WORK!!";
+	document.body.appendChild(div);	
 };
 
 
