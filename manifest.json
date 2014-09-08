@@ -4,7 +4,7 @@
 	"name": "Kill9gagFeed",
 	"description": "This extension removes the 9gag feed. Enable this while at work.",
 
-	"version": "0.1",
+	"version": "0.2",
 
 	"permissions": [
 		"http://9gag.com/"
