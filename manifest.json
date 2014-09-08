@@ -12,7 +12,7 @@
 
 	"content_scripts": [
 		{
-			"matches": ["http://9gag.com/"],
+			"matches": ["http://9gag.com/*"],
 			"js": ["pages/script.js"]	
 		}
 	],
