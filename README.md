@@ -8,3 +8,5 @@ Its available at the Chrome Web Store - [link](https://chrome.google.com/webstor
 
 ### How is it useful? 
 You could enable the extension when you're working. The extension will bark at you in a friendly way when you try to visit 9gag! 
+
+##### Weekly users: 15
